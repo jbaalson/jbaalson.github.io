@@ -1,6 +1,6 @@
 # Jacob Baalson
 
-PUT MY PICTURE HERE
+![](https://raw.githubusercontent.com/jbaalson/jbaalson.github.io/main/Profile%20Picture.JPG)
 
 
 Bachelor’s of Science, Iowa State University ~ Ames, IA  	         Anticipated Graduation: May 2022  
@@ -16,5 +16,5 @@ Relevant Coursework: Object-Oriented Programming, Introduction to Data Structure
 
 Description
 
-![](\images/Capture.png)
+![]()
 

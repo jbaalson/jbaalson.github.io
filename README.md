@@ -16,5 +16,5 @@ Relevant Coursework: Object-Oriented Programming, Introduction to Data Structure
 
 Description
 
-![alt text here](\Users\Jake Baalson\Documents\Capture.png)
+![](\images/Caputre.png)
 

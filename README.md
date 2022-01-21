@@ -20,4 +20,4 @@ Used multivariate statistical methods such as Hotelling’s Two Sample T2-Test, 
 ![](Project%20Picture.PNG)
 
 
-[](https://github.com/jbaalson/jbaalson.github.io/blob/34e22b75e94e4db498d1c98264af313bdd71128c/Stat-475-Final-Report%20(1).html)
+![](https://github.com/jbaalson/jbaalson.github.io/blob/34e22b75e94e4db498d1c98264af313bdd71128c/Stat-475-Final-Report%20(1).html)

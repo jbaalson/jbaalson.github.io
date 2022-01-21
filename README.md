@@ -16,15 +16,5 @@ Relevant Coursework: Object-Oriented Programming, Introduction to Data Structure
 
 Description
 
+![alt text here](C:\Users\Jake Baalson\Documents\Capture.png)
 
-```{r}
-data <- read.csv("sample-data.csv")
-data
-data$Country <- as.factor(data$Country)
-data$Continent <- as.factor(data$Continent)
-data$status <- as.factor(data$status)
-str(data)
-
-```
-
-Picture

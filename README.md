@@ -3,10 +3,8 @@
 ![](Profile%20Picture.JPG)
 
 
-Bachelor’s of Science, Iowa State University ~ Ames, IA
-
+Bachelor’s of Science, Iowa State University ~ Ames, IA                            
 Anticipated Graduation: May 2022  
-
 Major: Data Science 
 
 Relevant Coursework: 

@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Jacob Baalson
 
-You can use the [editor on GitHub](https://github.com/jbaalson/jbaalson.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bachelor’s of Science, Iowa State University ~ Ames, IA  	         Anticipated Graduation: May 2022  
+Major: Data Science 
+
+Relevant Coursework: Object-Oriented Programming, Introduction to Data Structures, Introduction to the Design and Analysis of Algorithms, Software Tools for Large Scale Data Analysis, Introduction to Database Management Systems, Data Acquisition and Exploratory Data Analysis, Intermediate Statistical Concepts and Methods, Introduction to Multivariate Data Analysis, Probability and Statistical Theory for Data Science, Concepts and Applications of Machine Learning  
 
 ### Markdown
 

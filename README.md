@@ -19,3 +19,5 @@ Used multivariate statistical methods such as Hotelling’s Two Sample T2-Test, 
 
 ![](Project%20Picture.PNG)
 
+
+![](Stat-475-Final-Report (1).html)

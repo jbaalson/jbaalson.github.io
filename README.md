@@ -16,5 +16,5 @@ Relevant Coursework: Object-Oriented Programming, Introduction to Data Structure
 
 Description
 
-![](\images/Caputre.png)
+![](\images/Capture.png)
 

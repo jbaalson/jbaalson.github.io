@@ -1,6 +1,6 @@
 # Jacob Baalson
 
-![](https://raw.githubusercontent.com/jbaalson/jbaalson.github.io/main/Profile%20Picture.JPG)
+![](Profile%20Picture.JPG)
 
 
 Bachelor’s of Science, Iowa State University ~ Ames, IA  	         Anticipated Graduation: May 2022  

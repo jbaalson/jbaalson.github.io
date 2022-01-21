@@ -14,7 +14,7 @@ Relevant Coursework: Object-Oriented Programming, Introduction to Data Structure
 
 ### Multivariate Data Analysis Final Project
 
-Description
+Used multivariate statistical methods such as Hotelling’s Two Sample T2-Test, one-way manova, logistic regression using backwards selection, random forests, hierarchical clustering, and multidimensional scaling to analyze problems in a country dataset focused on economy and social status
 
 ![](Project%20Picture.PNG)
 

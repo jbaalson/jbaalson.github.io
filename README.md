@@ -1,6 +1,6 @@
 # Jacob Baalson
 
-![](Profile%20Picture.JPG)( width: 200px; }
+![](Profile%20Picture.JPG){ width: 200px; }
 
 
 Bachelor’s of Science, Iowa State University ~ Ames, IA                            

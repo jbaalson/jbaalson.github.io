@@ -25,7 +25,7 @@ Relevant Coursework:
 
 ### Multivariate Data Analysis Final Project
 
-Used multivariate statistical methods such as Hotelling’s Two Sample T2-Test, one-way manova, logistic regression using backwards selection, random forests, hierarchical clustering, and multidimensional scaling to analyze problems in a country dataset focused on economy and social status
+I analyzed problems in a country dataset focused on economy and social status using multivariate statistical methods such as Hotelling’s Two Sample T2-Test, one-way manova, logistic regression using backwards selection, random forests, hierarchical clustering, and multidimensional scaling.
 
 ![](Project%20Picture.PNG)
 

@@ -1,5 +1,7 @@
 # Jacob Baalson
 
+PUT MY PICTURE HERE
+
 
 Bachelor’s of Science, Iowa State University ~ Ames, IA  	         Anticipated Graduation: May 2022  
 Major: Data Science 

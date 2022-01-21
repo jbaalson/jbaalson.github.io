@@ -17,4 +17,14 @@ Relevant Coursework: Object-Oriented Programming, Introduction to Data Structure
 Description
 
 
+```{r}
+data <- read.csv("sample-data.csv")
+data
+data$Country <- as.factor(data$Country)
+data$Continent <- as.factor(data$Continent)
+data$status <- as.factor(data$status)
+str(data)
+
+```
+
 Picture
